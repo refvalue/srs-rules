@@ -31,8 +31,7 @@
           "lubanec.com",
           "crecgec.com",
           "crsc.com.cn",
-          "gov.cn",
-          "htlvbooks.com"
+          "gov.cn"
         ],
         "domain_suffix": [
           ".bing.com",
@@ -63,8 +62,7 @@
           ".lubanec.com",
           ".crecgec.com",
           ".crsc.com.cn",
-          ".gov.cn",
-          ".htlvbooks.com"
+          ".gov.cn"
         ]
     }
   ]
