@@ -3,10 +3,12 @@
   "rules": [
     {
       "domain": [
-          "htlvbooks.com"
+          "htlvbooks.com",
+          "upwork.com"
         ],
         "domain_suffix": [
-          ".htlvbooks.com"
+          ".htlvbooks.com",
+          ".upwork.com"
         ]
     }
   ]
