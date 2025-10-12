@@ -6,13 +6,15 @@
           "htlvbooks.com",
           "upwork.com",
           "gnu.org",
-          "kernel.org"
+          "kernel.org",
+          "invisible-island.net"
         ],
         "domain_suffix": [
           ".htlvbooks.com",
           ".upwork.com",
           ".gnu.org",
-          ".kernel.org"
+          ".kernel.org",
+          ".invisible-island.net"
         ]
     }
   ]
