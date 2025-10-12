@@ -4,11 +4,13 @@
     {
       "domain": [
           "htlvbooks.com",
-          "upwork.com"
+          "upwork.com",
+          "gnu.org"
         ],
         "domain_suffix": [
           ".htlvbooks.com",
-          ".upwork.com"
+          ".upwork.com",
+          ".gnu.org"
         ]
     }
   ]
