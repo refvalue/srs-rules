@@ -5,12 +5,14 @@
       "domain": [
           "htlvbooks.com",
           "upwork.com",
-          "gnu.org"
+          "gnu.org",
+          "kernel.org"
         ],
         "domain_suffix": [
           ".htlvbooks.com",
           ".upwork.com",
-          ".gnu.org"
+          ".gnu.org",
+          ".kernel.org"
         ]
     }
   ]
