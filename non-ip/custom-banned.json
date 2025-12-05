@@ -7,16 +7,14 @@
           "upwork.com",
           "gnu.org",
           "kernel.org",
-          "invisible-island.net",
-          "asuswrt-merlin.net"
+          "invisible-island.net"
         ],
         "domain_suffix": [
           ".htlvbooks.com",
           ".upwork.com",
           ".gnu.org",
           ".kernel.org",
-          ".invisible-island.net",
-          ".asuswrt-merlin.net"
+          ".invisible-island.net"
         ]
     }
   ]
