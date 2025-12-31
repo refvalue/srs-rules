@@ -7,14 +7,18 @@
           "upwork.com",
           "gnu.org",
           "kernel.org",
-          "invisible-island.net"
+          "invisible-island.net",
+          "driveuconnect.com",
+          "asuswrt-merlin.net"
         ],
         "domain_suffix": [
           ".htlvbooks.com",
           ".upwork.com",
           ".gnu.org",
           ".kernel.org",
-          ".invisible-island.net"
+          ".invisible-island.net",
+          ".driveuconnect.com",
+          ".asuswrt-merlin.net"
         ]
     }
   ]
