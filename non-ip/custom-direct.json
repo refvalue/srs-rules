@@ -13,7 +13,6 @@
           "gitlab.glasssix.io",
           "glasssix.com",
           "glasssix.io",
-          "gov.cn",
           "live.com",
           "microsoft.com",
           "microsoftonline.com",
@@ -31,7 +30,9 @@
           "lubanec.com",
           "crecgec.com",
           "crsc.com.cn",
-          "gov.cn"
+          "gov.cn",
+          "upwork.com",
+          "cloudflare.com"
         ],
         "domain_suffix": [
           ".bing.com",
@@ -44,7 +45,6 @@
           ".gitlab.glasssix.io",
           ".glasssix.com",
           ".glasssix.io",
-          ".gov.cn",
           ".live.com",
           ".microsoft.com",
           ".microsoftonline.com",
@@ -62,7 +62,9 @@
           ".lubanec.com",
           ".crecgec.com",
           ".crsc.com.cn",
-          ".gov.cn"
+          ".gov.cn",
+          ".upwork.com",
+          ".cloudflare.com"
         ]
     }
   ]
