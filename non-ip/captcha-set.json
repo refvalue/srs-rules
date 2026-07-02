@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "challenges.cloudflare.com",
+        "client-api.arkoselabs.com",
+        "openaicom.arkoselabs.com"
+      ]
+    }
+  ]
+}
