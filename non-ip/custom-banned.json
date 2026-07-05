@@ -10,8 +10,7 @@
           "driveuconnect.com",
           "asuswrt-merlin.net",
           "notepad-plus-plus.org",
-          "inkscape.org",
-          "geoteknic.com"
+          "inkscape.org"
         ],
         "domain_suffix": [
           ".htlvbooks.com",
@@ -22,7 +21,7 @@
           ".asuswrt-merlin.net",
           ".notepad-plus-plus.org",
           ".inkscape.org",
-          ".geoteknic.com"
+          "geoteknic.com"
         ]
     }
   ]
